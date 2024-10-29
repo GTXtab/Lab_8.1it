@@ -1,0 +1,7 @@
+﻿  UnitTest1.cpp
+D:\NULP\AP\autumn_labs&pract\October\ap_t_08\ReadyToLook\Lab_8.1it\Lab_8.1it\Lab_8.1it.cpp(27,4): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file '/UnitTest1.cpp')
+  
+D:\NULP\AP\autumn_labs&pract\October\ap_t_08\ReadyToLook\Lab_8.1it\Lab_8.1it\Lab_8.1it.cpp(40,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file '/UnitTest1.cpp')
+  
